@@ -4,7 +4,7 @@
 
 
 ```sh
-  clone
+  clone the repository
   cd node-file-manager
   npm i
   cd lib
